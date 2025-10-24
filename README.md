@@ -1,7 +1,3 @@
-Here’s a concise and **interactive-style README.md** version for your **E-Commerce Sales Dashboard (Power BI)** — formatted and structured for GitHub:
-
----
-
 # 📊 E-Commerce Sales Dashboard (Power BI)
 
 An **interactive Power BI dashboard** that visualizes **sales performance, customer behavior, and product profitability** across regions and time periods.
