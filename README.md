@@ -46,8 +46,8 @@ Data Source (If Applicable): The original data source is not included, but Power
 
 🖼️ Dashboard Preview
 
-(When you push this to GitHub, you can add an image here like this:)
 
-![Dashboard Preview](https://drive.google.com/file/d/1AW-YSCNvZ3eS2Ep4gFYhgcaNiXJ1xeJP/view?usp=sharing)
+https://drive.google.com/file/d/1AW-YSCNvZ3eS2Ep4gFYhgcaNiXJ1xeJP/view?usp=sharing
+![Dashboard Preview]()
 
 
