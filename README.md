@@ -67,7 +67,7 @@ git clone https://github.com/SumitInSync/E-Commerce-Dashboard
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](https://drive.google.com/file/d/1AW-YSCNvZ3eS2Ep4gFYhgcaNiXJ1xeJP/view?usp=sharing)
+![Dashboard Preview](https://drive.google.com/file/d/1AW-YSCNvZ3eS2Ep4gFYhgcaNiXJ1xeJP)
 
 
 
